@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Hi, I’m Muhammad Elyas
 
-<!--
-**boss-tech-01/boss-tech-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student and junior Java developer with a strong focus on backend development.  
+I enjoy building structured, scalable applications and understanding how real-world systems actually work.
 
-Here are some ideas to get you started:
+## 🔭 What I’m currently working on
+- Java and Spring Boot projects  
+- Backend development with RESTful APIs  
+- Expanding my skill set by learning frontend development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools & Technologies
+- **Languages:** Java, JavaScript, SQL 
+- **Backend:** Spring Boot, Spring Security, Hibernate  
+- **Databases:** PostgreSQL, MongoDB  
+- **Frontend:** HTML, CSS, React, NextJs, Bootstrap
+- **Tools:** Git, GitHub, Docker, AWS, Maven
+
+## 📫 How to reach me
+- **Email:** ahmadielyas591@gmail.com  
+- **LinkedIn:** www.linkedin.com/in/muhammad-elyas-ahmadi  
+- **GitHub:** You’re already here 🙂
