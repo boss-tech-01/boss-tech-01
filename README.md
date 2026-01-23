@@ -16,6 +16,6 @@ I enjoy building structured, scalable applications and understanding how real-wo
 - **Tools:** Git, GitHub, Docker, AWS, Maven
 
 ## 📫 How to reach me
-- **Email:** ahmadielyas591@gmail.com  
+- **Email:** m.eliyas.ahmadi@gmail.com  
 - **LinkedIn:** www.linkedin.com/in/mohammad-eliyas-ahmadi  
 - **GitHub:** You’re already here 🙂
